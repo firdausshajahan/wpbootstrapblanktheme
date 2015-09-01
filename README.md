@@ -7,4 +7,4 @@ A Wordpress 4.3 theme built with bootstrap 3.3.4
 
 ...still alot to improve
 
-https://github.com/firdausshajahan/wpbootstrapblanktheme
+![ScreenShot](https://github.com/firdausshajahan/wpbootstrapblanktheme/blob/master/screenshot.png)
