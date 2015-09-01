@@ -1,0 +1,23 @@
+/*
+Theme Name: WP Bootstrap
+Theme URI: http://www.tehhalia.com/wp-bootstrap
+Description: A sample theme to built wordpress theme with bootstrap
+Author URI: http://tehhalia.com
+Version: 1.0
+Tags: responsive, white, bootstrap
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+This simple theme was built using the example Bootstrap theme "Jumbotron" found on the Bootstrap web site http://getbootstrap.com/examples/jumbotron/
+*/
+
+@import url('bootstrap/css/bootstrap.min.css');
+body {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.content{
+	margin-top: 20px; 
+}
